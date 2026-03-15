@@ -1,0 +1,15 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements
+- [x] Scaffold the Project
+- [x] Customize the Project
+- [x] Install Required Extensions
+- [x] Compile the Project
+- [x] Create and Run Task
+- [ ] Launch the Project
+- [x] Ensure Documentation is Complete
+
+- Project root is the current workspace.
+- The app uses React, TypeScript, and Vite.
+- The product brand is Outcomee.
+- The landing page includes English and Turkish language modes.
+- The current scope is a polished marketing site with a working client-side waitlist interaction.
